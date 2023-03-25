@@ -1,2 +1,15 @@
-List of all Git Commands
+#List of all Git Commands
 
+This is a basic list of all Git Commands.
+
+##create new repo;
+
+git init
+
+As the name suggests, it creates a new repo.
+
+## commit changes to the repo;
+
+git commit -m
+
+This commits the made changes to the repository.
